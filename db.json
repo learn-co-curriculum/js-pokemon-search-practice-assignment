@@ -1,4 +1,4 @@
-{
+const pokemonJSON = {
   "pokemons": [
     {
       "height": 10,
